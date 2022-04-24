@@ -1,4 +1,4 @@
-# Proyecto - GPT3 React
+# Proyecto - Landing Smart Banking React
 
 [![N|Solid](https://github.com/ayllondark/Landing-smart-banking/blob/master/src/img/smart-banking.png)](https://landing-smartbanking.netlify.app)
 
