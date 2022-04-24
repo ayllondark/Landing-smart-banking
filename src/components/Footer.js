@@ -20,35 +20,35 @@ const Footer = () => {
             <ul className='botton-nav'>
                 <div className='links1'>
                     <li>
-                        <a href='#'>Team</a>
+                        <a href='#/'>Team</a>
                     </li>
                     <li>
-                        <a href='#'>Press</a>
+                        <a href='#/'>Press</a>
                     </li>
                     <li>
-                        <a href='#'>Fees</a>
+                        <a href='#/'>Fees</a>
                     </li>
                 </div>
                 <div className='links2'>
                     <li>
-                        <a href='#'>Services</a>
+                        <a href='#/'>Services</a>
                     </li>
                     <li>
-                        <a href='#'>Projects</a>
+                        <a href='#/'>Projects</a>
                     </li>
                     <li>
-                        <a href='#'>Affiliate</a>
+                        <a href='#/'>Affiliate</a>
                     </li>
                 </div>
                 <div className='links3'>
                     <li>
-                        <a href='#'>Terms of use</a>
+                        <a href='#/'>Terms of use</a>
                     </li>
                     <li>
-                        <a href='#'>privacity policy</a>
+                        <a href='#/'>privacity policy</a>
                     </li>
                     <li>
-                        <a href='#'>Contact us</a>
+                        <a href='#/'>Contact us</a>
                     </li>
                 </div>
             </ul>
